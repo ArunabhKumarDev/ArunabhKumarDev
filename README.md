@@ -1,143 +1,303 @@
-<!-- ========================= HEADER ========================= -->
+<!-- ========================================================= -->
+
+<!--                    ARUNABH GUPTA                          -->
+
+<!--              PROFESSIONAL DEV PROFILE                    -->
+
+<!-- ========================================================= -->
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2500&pause=700&color=00F0FF&center=true&vCenter=true&width=850&height=70&lines=%3E+INITIALIZING+DEV.LAB...;%3E+WELCOME%2C+RUNNER_;%3E+BUILDING+%7C+EXPERIMENTING+%7C+LEARNING;%3E+SYSTEM+STATUS%3A+ONLINE" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=27&duration=2500&pause=700&color=00F0FF&center=true&vCenter=true&width=900&height=70&lines=%3E+ARUNABH+GUPTA;%3E+SOFTWARE+%7C+AUTOMATION+%7C+DATA+%7C+SYSTEMS;%3E+BUILDING+%26+LEARNING;%3E+SYSTEM+STATUS%3A+ONLINE" />
 
-<br>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F0FF,35:0066FF,65:8A2BE2,100:FF00AA&height=130&section=header&text=ARUNABH%20GUPTA&fontSize=40&fontColor=FFFFFF&animation=twinkling&fontAlignY=55" width="100%"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F0FF,40:8A2BE2,70:FF00AA,100:00F0FF&height=120&section=header&text=DEV.LAB&fontSize=42&fontColor=FFFFFF&animation=twinkling&fontAlignY=55" width="100%"/>
+</div>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/DEVELOPER-ONLINE-00F0FF?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/BUILDING-ACTIVE-8A2BE2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LEARNING-CONTINUOUS-FF00AA?style=for-the-badge"/>
+
+<br><br>
+
+`SOFTWARE`　`AUTOMATION`　`DATA`　`AI/ML`　`SYSTEMS`　`GODOT`
 
 </div>
 
 ---
 
-<div align="center">
-
-### `// CODE • CREATE • EXPERIMENT • ITERATE`
-
-<img src="https://img.shields.io/badge/STATUS-ONLINE-00F0FF?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/MODE-BUILDING-8A2BE2?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/FOCUS-LEARNING-FF00AA?style=for-the-badge"/>
-
-</div>
-
-<br>
-
----
-
-# `> SYSTEM.IDENTITY`
+# `> PROFILE.INIT`
 
 <table>
 <tr>
-<td width="55%" valign="top">
 
-### `HELLO, I'M ARUNABH`
+<td width="58%" valign="top">
 
-I'm a developer who enjoys **building things, experimenting with ideas, and learning through projects**.
+## `HELLO, I'M ARUNABH`
 
-This GitHub is my personal **development lab** — a place where I build projects, test concepts, explore technologies and document the things I'm learning.
+I'm a **Computer Science graduate and developer** interested in building practical software, automation systems, data-driven tools, and experimental projects.
 
-I don't want to restrict myself to one technology or one type of project.
+My work spans multiple areas rather than a single technology stack — from **workflow automation and healthcare data systems** to **machine learning, developer tools, and Godot/GDScript experiments**.
 
-Currently exploring:
+I enjoy taking a problem, understanding the underlying system, and turning it into something useful.
 
-* ⚡ Software & automation
-* 🧠 AI / ML
-* 🌐 Web technologies
-* 🎮 Godot & interactive systems
-* 🛠️ Developer tools
-* 🧪 Experimental projects
+### `CURRENT APPROACH`
 
-<br>
-
-`LEARN → BUILD → BREAK → DEBUG → IMPROVE`
+`LEARN → BUILD → TEST → DEBUG → IMPROVE`
 
 </td>
 
-<td width="45%" valign="top">
+<td width="42%" valign="top">
 
 ```text
 ╔══════════════════════════════════╗
-║         DEV.LAB TERMINAL         ║
+║        DEVELOPER PROFILE         ║
 ╠══════════════════════════════════╣
 ║                                  ║
-║  USER       :: ARUNABH           ║
-║  STATUS     :: ONLINE ●          ║
-║  MODE       :: BUILDING          ║
+║  NAME       :: ARUNABH GUPTA     ║
+║  STATUS     :: ACTIVE ●          ║
+║  ROLE       :: DEVELOPER         ║
 ║                                  ║
-║  CURRENTLY  :: EXPLORING         ║
+║  EDUCATION  :: B.Tech CSE        ║
+║  GPA        :: 8.3               ║
 ║                                  ║
-║  ├─ Godot                         ║
-║  ├─ GDScript                      ║
-║  ├─ Python                        ║
-║  ├─ Automation                    ║
-║  └─ New Ideas                     ║
+║  EXPERIENCE :: NETRAD Solutions  ║
 ║                                  ║
-║  PROJECTS   :: LOADING...         ║
-║  CURIOSITY  :: UNLIMITED          ║
+║  FOCUS                             ║
+║   ├─ Automation                  ║
+║   ├─ Software                    ║
+║   ├─ Data / Analytics            ║
+║   ├─ AI / ML                     ║
+║   └─ Godot / GDScript            ║
 ║                                  ║
 ╚══════════════════════════════════╝
 ```
 
 </td>
+
 </tr>
 </table>
 
 ---
 
-# `> CURRENT.MISSION`
+# `> CORE.SYSTEMS`
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=FF00AA&center=true&vCenter=true&width=700&lines=BUILDING+REAL+PROJECTS;EXPERIMENTING+WITH+NEW+TECHNOLOGIES;TURNING+IDEAS+INTO+CODE;LEARNING+SOMETHING+NEW+EVERY+DAY" />
-
-</div>
-
-<br>
-
 <table>
 <tr>
-<td align="center" width="25%">
+
+<td align="center" width="20%">
+
+### ⚙️
+
+**SOFTWARE**
+
+Applications
+Systems
+Development
+
+</td>
+
+<td align="center" width="20%">
 
 ### ⚡
 
-**BUILD**
+**AUTOMATION**
 
-Turn ideas into working projects.
-
-</td>
-
-<td align="center" width="25%">
-
-### 🧪
-
-**EXPERIMENT**
-
-Try technologies and concepts.
+Workflow
+Browser Tools
+Process Optimization
 
 </td>
 
-<td align="center" width="25%">
+<td align="center" width="20%">
+
+### 📊
+
+**DATA**
+
+Analytics
+Dashboards
+Data Processing
+
+</td>
+
+<td align="center" width="20%">
 
 ### 🧠
 
-**LEARN**
+**AI / ML**
 
-Understand how things work.
+Machine Learning
+Python
+Experiments
+
+</td>
+
+<td align="center" width="20%">
+
+### 🎮
+
+**GODOT**
+
+GDScript
+Abilities
+Gameplay Systems
 
 </td>
 
-<td align="center" width="25%">
-
-### 🔧
-
-**IMPROVE**
-
-Refactor and build better.
-
-</td>
 </tr>
+</table>
+
+</div>
+
+---
+
+# `> PROFESSIONAL.EXPERIENCE`
+
+## `NETRAD SOLUTIONS // OPERATIONS & AUTOMATION`
+
+```text
+ROLE       :: Operations Co-ordinator
+PERIOD     :: April 2025 → Present
+DOMAIN     :: Healthcare / Radiology Operations
+MODE       :: Automation + Data + Systems
+```
+
+### `WORKFLOW AUTOMATION`
+
+Developing internal web applications and browser extensions to automate repetitive radiology workflows and reduce manual data entry.
+
+### `RADEX`
+
+Built a healthcare data extraction platform for parsing radiology logs, validating patient information, and generating structured datasets for reporting and downstream workflows.
+
+### `DATA PROCESSING`
+
+Designed JavaScript and TypeScript automation tools to extract, clean and organize diagnostic records from multiple radiology systems.
+
+### `PROCESS OPTIMIZATION`
+
+Improved operational workflows by streamlining coordination between radiologists, technical teams and operations.
+
+### `DATA QUALITY`
+
+Managed and validated large volumes of patient records using Excel, Google Sheets and internal healthcare systems.
+
+### `REPORTING`
+
+Developed internal dashboards and reporting utilities for operational metrics and business decision-making.
+
+---
+
+# `> PROJECT.ARCHIVE`
+
+<table>
+
+<tr>
+
+<td width="50%" valign="top">
+
+## `01 // RADEX`
+
+### Radiology Data Extraction & Workflow Automation
+
+**STACK**
+
+`TypeScript` `JavaScript` `HTML` `CSS`
+
+`Excel` `Google Sheets`
+
+A healthcare workflow automation platform designed to extract and structure patient information from radiology logs.
+
+**SYSTEMS**
+
+* Patient data extraction
+* Log parsing
+* Data validation
+* Filtering
+* Bulk extraction
+* Searchable reporting
+* Data export
+* Workflow automation
+
+`STATUS :: ACTIVE`
+
+</td>
+
+<td width="50%" valign="top">
+
+## `02 // GODOT ABILITY SYSTEMS`
+
+### Character Ability Development
+
+**STACK**
+
+`Godot` `GDScript`
+
+Current development work focused on creating **character abilities and gameplay systems** for a Godot-based project.
+
+**EXPLORING**
+
+* Ability logic
+* Character interactions
+* Gameplay mechanics
+* Reusable systems
+* State-based behaviour
+* Cooldowns & effects
+* GDScript architecture
+
+`STATUS :: CURRENTLY BUILDING`
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+## `03 // HEART DISEASE PREDICTION`
+
+### Machine Learning Project
+
+**STACK**
+
+`Python` `NumPy` `Pandas`
+
+`Matplotlib` `StandardScaler`
+
+A machine learning project focused on predicting potential heart disease using structured data.
+
+Explored data preprocessing, feature handling and model development.
+
+`STATUS :: COMPLETED`
+
+</td>
+
+<td width="50%" valign="top">
+
+## `04 // JARVIS AI`
+
+### Python Virtual Assistant
+
+**STACK**
+
+`Python` `Voice Recognition` `Automation`
+
+A Python-based virtual assistant capable of voice recognition and task automation.
+
+Explored conversational interaction, automation workflows and Python-based system integration.
+
+`STATUS :: COMPLETED`
+
+</td>
+
+</tr>
+
 </table>
 
 ---
@@ -146,183 +306,230 @@ Refactor and build better.
 
 <div align="center">
 
-### `LANGUAGES`
+### `PROGRAMMING`
 
-<img src="https://skillicons.dev/icons?i=python,cpp,js,ts,godot,html,css,sql,bash" />
+<img src="https://skillicons.dev/icons?i=python,cpp,cs,js,ts,html,css,sql,bash" />
 
 <br><br>
 
-### `TOOLS & PLATFORMS`
+### `DEVELOPMENT`
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker,aws,gcp" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,godot,mysql,linux" />
+
+<br><br>
+
+### `DATA / ANALYTICS`
+
+`Excel`　`Power BI`　`NumPy`　`Matplotlib`　`Google Sheets`
+
+<br><br>
+
+### `AREAS`
+
+`DATA ANALYTICS`　`AUTOMATION`　`WORKFLOW OPTIMIZATION`
+
+`AI / ML`　`SOFTWARE DEVELOPMENT`　`GAME SYSTEMS`
 
 </div>
-
----
-
-# `> PROJECT.DATABASE`
-
-<table>
-<tr>
-
-<td width="33%" align="center">
-
-## `01 // EXPERIMENTS`
-
-🧪
-
-Small projects created to test an idea, technology, algorithm or concept.
-
-`STATUS :: EXPLORING`
-
-</td>
-
-<td width="33%" align="center">
-
-## `02 // TOOLS`
-
-🛠️
-
-Automation scripts, utilities and tools designed to solve practical problems.
-
-`STATUS :: BUILDING`
-
-</td>
-
-<td width="33%" align="center">
-
-## `03 // SYSTEMS`
-
-⚙️
-
-Projects involving architecture, logic, interactions and reusable components.
-
-`STATUS :: ACTIVE`
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="33%" align="center">
-
-## `04 // CREATIVE`
-
-🌐
-
-Interactive projects, prototypes and ideas where technology meets creativity.
-
-`STATUS :: EXPERIMENTAL`
-
-</td>
-
-<td width="33%" align="center">
-
-## `05 // LEARNING`
-
-📚
-
-Projects created while learning new languages, frameworks and technologies.
-
-`STATUS :: ALWAYS GROWING`
-
-</td>
-
-<td width="33%" align="center">
-
-## `06 // FUTURE`
-
-🔮
-
-Ideas that haven't been built yet.
-
-`STATUS :: CLASSIFIED`
-
-</td>
-
-</tr>
-</table>
 
 ---
 
 # `> CURRENTLY.EXPLORING`
 
-```text
-┌──────────────────────────────────────────────────────────────┐
-│                                                              │
-│  [01] GODOT / GDSCRIPT                                      │
-│       Exploring gameplay systems, mechanics and architecture │
-│                                                              │
-│  [02] SOFTWARE                                               │
-│       Building practical tools and experimental projects    │
-│                                                              │
-│  [03] AUTOMATION                                             │
-│       Finding ways to eliminate repetitive work              │
-│                                                              │
-│  [04] AI / ML                                                │
-│       Learning, experimenting and building                   │
-│                                                              │
-│  [05] NEW TECHNOLOGIES                                      │
-│       Whatever catches my curiosity next...                  │
-│                                                              │
-└──────────────────────────────────────────────────────────────┘
-```
+<table>
+
+<tr>
+
+<td width="25%" align="center">
+
+### `01`
+
+🧠
+
+**SOFTWARE**
+
+Applications
+Systems
+Architecture
+
+</td>
+
+<td width="25%" align="center">
+
+### `02`
+
+⚡
+
+**AUTOMATION**
+
+Workflow
+Browser Tools
+Data Processing
+
+</td>
+
+<td width="25%" align="center">
+
+### `03`
+
+🎮
+
+**GODOT**
+
+GDScript
+Abilities
+Gameplay Systems
+
+</td>
+
+<td width="25%" align="center">
+
+### `04`
+
+🚀
+
+**NEXT**
+
+New Technologies
+Better Systems
+New Ideas
+
+</td>
+
+</tr>
+
+</table>
 
 ---
 
-# `> TERMINAL.LOG`
+# `> DEVELOPMENT.LOG`
 
 <div align="center">
 
 ```text
-$ ./dev_lab.sh
+$ ./developer_mode.sh
 
-[✓] System initialized
-[✓] Developer mode enabled
-[✓] Repository connected
+[✓] Environment initialized
+[✓] Git connected
+[✓] Projects loaded
 [✓] Curiosity detected
-[✓] New idea detected
 
-> Starting experiment...
+> Loading skill matrix...
 
 ████████████████████████████████████████ 100%
+
+[✓] Software
+[✓] Automation
+[✓] Data
+[✓] AI / ML
+[✓] Web
+[✓] Godot
+[✓] GDScript
+
+> New project detected.
+
+> Building...
 
 > Something broke.
 
 > Debugging...
-> Fixing...
+
+> Fixed.
+
 > Refactoring...
-> Learning...
 
-[✓] Experiment complete
+> Learning complete.
 
-> Loading next project...
+[ SYSTEM ] Ready for next iteration.
 ```
 
 </div>
 
 ---
 
-# `> DEVELOPMENT.PHILOSOPHY`
+# `> LEARNING.ROADMAP`
 
 <div align="center">
 
-### `BUILD SOMETHING → LEARN SOMETHING`
+<table>
+
+<tr>
+
+<td width="25%" align="center">
+
+### `01`
+
+**FOUNDATIONS**
+
+Programming
+Algorithms
+Databases
+
+</td>
+
+<td width="25%" align="center">
+
+### `02`
+
+**AUTOMATION**
+
+Workflow Systems
+Browser Automation
+Data Processing
+
+</td>
+
+<td width="25%" align="center">
+
+### `03`
+
+**INTERACTIVE**
+
+Godot
+GDScript
+Gameplay Systems
+
+</td>
+
+<td width="25%" align="center">
+
+### `04`
+
+**NEXT**
+
+Architecture
+Scalability
+New Technologies
+
+</td>
+
+</tr>
+
+</table>
+
+</div>
+
+---
+
+# `> CERTIFICATION.ARCHIVE`
+
+<div align="center">
+
+`UDEMY`
+
+**Python for Data Analysis in Data Science, AI, ML & DL**
 
 <br>
 
-|      | Principle                                            |
-| ---- | ---------------------------------------------------- |
-| `01` | **Build instead of only consuming.**                 |
-| `02` | **Understand instead of blindly copying.**           |
-| `03` | **Experiment without being afraid to break things.** |
-| `04` | **Refactor when a better solution appears.**         |
-| `05` | **Keep learning.**                                   |
+`ORACLE`
+
+**Oracle Cloud Data Management 2023 Certified Foundations Associate**
 
 <br>
 
-> **Every project is another experiment.**
+`TCS`
+
+**Cybersecurity Analyst Job Simulation — IAM**
 
 </div>
 
@@ -332,60 +539,95 @@ $ ./dev_lab.sh
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=ArunabhKumarDev&show_icons=true&theme=transparent&hide_border=true&title_color=00F0FF&icon_color=FF00AA&text_color=FFFFFF&ring_color=8A2BE2"/>
+<a href="https://github.com/KumarArunabh">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArunabhKumarDev&layout=compact&theme=transparent&hide_border=true&title_color=00F0FF&text_color=FFFFFF"/>
+<img height="180" src="https://github-stats-extended.vercel.app/api?username=KumarArunabh&show_icons=true&theme=radical&hide_border=true&title_color=00F0FF&icon_color=FF00AA&text_color=FFFFFF"/>
 
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=ArunabhKumarDev&theme=transparent&hide_border=true&ring=00F0FF&fire=FF00AA&currStreakLabel=00F0FF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF" width="70%"/>
-
-</div>
-
----
-
-# `> CONTRIBUTION.MATRIX`
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ArunabhKumarDev&bg_color=0D1117&color=00F0FF&line=FF00AA&point=FFFFFF&area=true&hide_border=true" width="100%"/>
-
-</div>
-
----
-
-# `> CONNECTION.NODE`
-
-<div align="center">
-
-<a href="https://github.com/ArunabhKumarDev">
-<img src="https://img.shields.io/badge/GitHub-DEV.LAB-00F0FF?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-CONNECT-8A2BE2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="https://github.com/KumarArunabh">
+
+<img height="180" src="https://github-stats-extended.vercel.app/api/top-langs/?username=KumarArunabh&layout=compact&theme=radical&hide_border=true&title_color=00F0FF&text_color=FFFFFF&langs_count=8"/>
+
 </a>
 
 </div>
 
 ---
 
+# `> ACTIVITY.MATRIX`
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=KumarArunabh&bg_color=0D1117&color=00F0FF&line=FF00AA&point=FFFFFF&area=true&hide_border=true&custom_title=DEVELOPMENT%20ACTIVITY" width="100%"/>
+
+</div>
+
+---
+
+# `> DEVELOPMENT.PHILOSOPHY`
+
+<div align="center">
+
+```text
+01  BUILD things that solve real problems.
+02  AUTOMATE repetitive work.
+03  UNDERSTAND the system behind the solution.
+04  EXPERIMENT with unfamiliar technologies.
+05  IMPROVE the architecture.
+06  KEEP LEARNING.
+```
+
+<br>
+
+### `BUILD → BREAK → DEBUG → UNDERSTAND → IMPROVE`
+
+<br>
+
+> **The best way to learn technology is to build with it.**
+
+</div>
+
+---
+
+# `> CONNECT.NODE`
+
+<div align="center">
+
+<a href="https://github.com/KumarArunabh">
+
+<img src="https://img.shields.io/badge/GITHUB-KUMARARUNABH-00F0FF?style=for-the-badge&logo=github&logoColor=white"/>
+
+</a>
+
+<a href="https://www.linkedin.com/in/arunabhgupta/">
+
+<img src="https://img.shields.io/badge/LINKEDIN-ARUNABH%20GUPTA-8A2BE2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+
+</a>
+
+<a href="https://arunabhgupta.com">
+
+<img src="https://img.shields.io/badge/PORTFOLIO-ARUNABHGUPTA-FF00AA?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+
+</a>
+
+</div>
+
+---
+
 <br>
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F0FF,40:8A2BE2,70:FF00AA,100:00F0FF&height=100&section=footer&animation=twinkling"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F0FF,35:0066FF,65:8A2BE2,100:FF00AA&height=110&section=footer&animation=twinkling"/>
 
-### `> DEV.LAB // SYSTEM STATUS: ONLINE`
+### `> SYSTEM STATUS :: ONLINE`
 
-`BUILD • EXPERIMENT • LEARN • REPEAT`
+`SOFTWARE • AUTOMATION • DATA • AI • SYSTEMS • EXPERIMENTS`
 
 <br>
 
-<sub>One project at a time.</sub>
+<sub>Building something new, one project at a time.</sub>
 
 </div>
